@@ -15,4 +15,7 @@ function funcao(){
     
     }
 
+    var estoque = 0
+    
+
 }
