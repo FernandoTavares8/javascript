@@ -12,7 +12,16 @@ function funcao(){
     
     // coloca os dados no vetor
     vet.push(objeto)
-    
+
     }
+
+    var estoque = 0
+    for (i=0; i<5; i++){
+        soma = soma + vet[i].quantidade 
+    }
+
+    alert("Quantidade em estoque: " + estoque)
+
+
 
 }
