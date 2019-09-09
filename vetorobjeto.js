@@ -20,8 +20,13 @@ function funcao(){
         soma = soma + vet[i].quantidade 
     }
 
+<<<<<<< HEAD
     alert("Quantidade em estoque: " + estoque)
 
 
+=======
+    var estoque = 0
+    
+>>>>>>> 9efd34d13f9ef38d5221a0547aee1514c87d04ff
 
 }
